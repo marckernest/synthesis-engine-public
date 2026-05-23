@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE / Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated output (can be large)
+output/
+*.md.bak
+*.json.tmp
+
+# Temporary files
+tmp/
+temp/
+.tmp/
